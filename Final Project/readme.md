@@ -1,0 +1,1 @@
+poetry run streamlit run ./00_helloworld/hello.py
